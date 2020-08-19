@@ -1,2 +1,2 @@
 # dnd-character-sheet-parser
-Parses the values filled out within a DnD PDF character sheet
+Uses node.js to parse the values filled out within the standard DnD pdf character sheets.
